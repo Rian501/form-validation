@@ -1,0 +1,12 @@
+:required {
+  background-color: orange;
+  padding: 2px;
+}
+
+:valid {
+	background-color: green;
+}
+
+:invalid {
+	background-color: red;
+}
